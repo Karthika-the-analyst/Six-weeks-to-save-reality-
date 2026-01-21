@@ -39,29 +39,6 @@ Each mission required:
 
 ---
 
-## 📝 Mission Submission Posts (LinkedIn)
-
-- 🔗 **Mission 1:** https://www.linkedin.com/posts/karthika-dataanalyst_mission-1-activity-7403757810511015936-sdQh?utm_source=share&utm_medium=member_android&rcm=ACoAAEmVRp0BfPcLttLhzg3crE4Sn8qvz3fjDk0
-- 🔗 **Mission 2:** [Add LinkedIn Post Link Here]
-- 🔗 **Mission 3:** 
-- 🔗 **Mission 4:** [Add LinkedIn Post Link Here]
-- 🔗 **Mission 5:** [Add LinkedIn Post Link Here]
-- 🔗 **Mission 6:** [Add LinkedIn Post Link Here]
-
----
-
-## 🎬 Final Challenge Presentation
-
-🎥 **YouTube Video (Final Creative Showcase):**  
-👉 [Add Your YouTube Video Link Here]
-
-**Presentation Includes:**
-- Mission-wise problem understanding
-- SQL logic & approach
-- Final answers
-- Story-driven explanation of the entire journey
-
----
 
 ## 🧠 Key Learnings
 
@@ -80,7 +57,7 @@ Thanks to **DigitsNData**, **Nitish**, and **Muskan** for designing an engaging 
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **GitHub:** [Your GitHub Profile Link]
+- **LinkedIn:** https://www.linkedin.com/in/karthika-dataanalyst
+
 
 ⭐ If you find this repository useful or inspiring, feel free to star it!
