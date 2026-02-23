@@ -5,6 +5,7 @@ This repository documents my complete journey and submissions for the
 
 The challenge focused on strengthening **SQL problem-solving, analytical thinking, and storytelling with data** through weekly missions and a creative final showcase.
 
+Video presentation: https://youtu.be/frY-kzfSLiA?si=-oaEzgLlt-f_59KQ
 ---
 
 ## 📌 About DigitsNData
